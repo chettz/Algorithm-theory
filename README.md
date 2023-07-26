@@ -1,2 +1,2 @@
-# PythonCodeUp100
-Practice python basic with CodeUp100
+# Algorithm theory
+Studying algorithm theory with Python
